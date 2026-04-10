@@ -15,3 +15,6 @@ In an earlier version the Ruby form was compared to stealth games, but its more 
 
 ## Funeral Archeology
 The combined practice of analysing burial customs and ancient temples like the Sunken Yonagumi.
+
+# Current Gameplay
+Current gameplay closely resembles Rock Paper Scissors, and similar hand game practices will carry over into stealth mechanics.
