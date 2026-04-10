@@ -1,4 +1,4 @@
-## Longterm Design Goals
+# Longterm Design Goals
 * Limit usage of automated character to emergency situations, simulating fight or flight responces.
 * Focus gameplay on provision distribution and scavenging.
 * Gradually expand possible acts to include traditional cave man hunting.
